@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jbenites333
+- 👋 Hi, I’m Jaime
 - 👀 I’m interested in data modeling
 - 🌱 I’m currently learning Pandas
 - 💞️ I’m looking to collaborate on sports predictive analysis models
